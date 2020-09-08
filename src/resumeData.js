@@ -96,12 +96,16 @@ let resumeData = {
   ],
   "testimonials":[
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"Design is not just what it looks and feels like. Design is how it works.",
+      "name":"Steve Jobs"
     },
     {
-      "description":"This is a sample testimonial",
-      "name":"Some technical guy"
+      "description":"Don't compare yourself with anyone in this world. If you do, you are insulting yourself.",
+      "name":"Bill Gates"
+    },
+    {
+      "description":"Rule No. 1: Never lose money. Rule No. 2: Never forget rule No. 1.",
+      "name":"Warren Buffet"
     }
   ]
 }
