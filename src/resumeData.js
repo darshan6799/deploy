@@ -26,6 +26,11 @@ let resumeData = {
         "url":"http://instagram.com/darshan_here",
         "className":"fa fa-instagram"
       },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/",
+        "className":"fa fa-facebook"
+      }
     ],
   "aboutme":"I have finished my B.E. in Computer Science and have started working in industry.",
   "address":"India",
@@ -63,7 +68,7 @@ let resumeData = {
       "skillname":"Reactjs"
     },
     {
-      "skillname":"Asp .Net"
+      "skillname":"asp"
     },
     {
       "skillname":"Python"
