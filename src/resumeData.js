@@ -37,7 +37,7 @@ let resumeData = {
   "education":[
     {
       "UniversityName":"Government Engineering College - Rajkot",
-      "specialization":"Compueter Engineering",
+      "specialization":"Computer Engineering",
       "MonthOfPassing":"2016 - ",
       "YearOfPassing":"2020",
     },
@@ -79,18 +79,18 @@ let resumeData = {
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
+      "name":"Android Attendance System(College Project)",
+      "description":"Mobile App",
       "imgurl":"images/portfolio/phone.jpg"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
+      "name":"Website Builder",
+      "description":"Web Application",
       "imgurl":"images/portfolio/project.jpg"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",
+      "name":"Website",
+      "description":"Freelance work",
       "imgurl":"images/portfolio/project2.png"
     },
     {
